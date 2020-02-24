@@ -35,20 +35,19 @@ $ guldkorn -owner diasurgical -repo devilutionX -token ACCESS_TOKEN
 
 status: "diverged" (head=AJenbo:roguelike vs base=diasurgical:master)
 AJenbo:roguelike ahead 3 (and behind 139) of diasurgical:master
-https://github.com/AJenbo/devilutionX/commits/roguelike?author=AJenbo
+https://github.com/diasurgical/devilutionX/compare/master...AJenbo:roguelike
 
 status: "diverged" (head=NEMadman:master vs base=diasurgical:master)
 NEMadman:master ahead 1 (and behind 970) of diasurgical:master
-https://github.com/NEMadman/devilutionX/commits/master?author=NEMadman
+https://github.com/diasurgical/devilutionX/compare/master...NEMadman:master
 
 status: "diverged" (head=cain05:difficulty_rebalance vs base=diasurgical:master)
 cain05:difficulty_rebalance ahead 13 (and behind 833) of diasurgical:master
-https://github.com/cain05/devilutionX/commits/difficulty_rebalance?author=cain05
+https://github.com/diasurgical/devilutionX/compare/master...cain05:difficulty_rebalance
 
 status: "diverged" (head=qndel:pixellight vs base=diasurgical:master)
 qndel:pixellight ahead 81 (and behind 22) of diasurgical:master
-https://github.com/qndel/devilutionX/commits/pixellight?author=qndel
-
+https://github.com/diasurgical/devilutionX/compare/master...qndel:pixellight
 ...
 ```
 
